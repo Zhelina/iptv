@@ -47,11 +47,11 @@ http://brhn.xyz/useetvgo/m3u/beritasatu.m3u8
 http://brhn.xyz/useetvgo/m3u/daaitv.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="TV Nasional",The Indonesia Chanel
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta (off)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="TV Nasional",Bali TV
 http://brhn.xyz/useetvgo/m3u/balitv.m3u8
-#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Nasional",Jogja TV
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Nasional",Jogja TV (off)
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Nasional",JITV
 http://brhn.xyz/useetvgo/m3u/jitv.m3u8
@@ -410,7 +410,7 @@ http://brhn.xyz/useetvgo/m3u/kbsworld.m3u8
 http://brhn.xyz/useetvgo/m3u/tvnmovies.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="India",Zee Bioskop
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+http://brhn.xyz/useetvgo/m3u/zbioskop.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="India",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="India",Zee Bolly
