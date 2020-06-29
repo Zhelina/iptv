@@ -9,8 +9,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
 http://brhn.xyz/vidiodotcom/net.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV (Off)
-http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV
+http://brhn.xyz/mix/antv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
@@ -268,7 +268,7 @@ http://brhn.xyz/useetvgo/m3u/dunialain.m3u8
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(80a28b16-86cd-4e4f-83e2-09fd96d7d0e2)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Hiburan dan Permainan",Blue Ant Extreme
 http://brhn.xyz/useetvgo/m3u/blueantextreme.m3u8
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Olahraga",UseePrime
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Hiburan dan Permainan",UseePrime
 http://brhn.xyz/useetvgo/m3u/useeprime.m3u8
 
 
@@ -357,9 +357,11 @@ http://brhn.xyz/kochenk/tvn.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
 http://brhn.xyz/kochenk/tvnm.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Extra Chanel",Fox Action Movies
-http://mrbjmiptv.online/play/yox@mrbjmiptv.online/48898969/bB5sdIIt/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
+http://brhn.xyz/mix/fam.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Extra Chanel",Celestial Classic Movies
-http://mrbjmiptv.online/play/yox@mrbjmiptv.online/48898969/bB5sdIIt/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
+http://brhn.xyz/mix/ccm.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Extra Chanel",Citra Bioskop
+http://brhn.xyz/mix/cb.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="Extra Chanel",Super Sport 1 HD
 http://198.16.100.210:12012/live/359111068247FFA1/eawV2m_stE-m1ej35o5BCVq1frVAWdECYKk2IWiBwbVFP0NWPYGXxl0lbdQIAQDv/E9F3ABF31C274409/746118.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 3 HD
