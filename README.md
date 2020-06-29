@@ -5,17 +5,18 @@ Playlist STB Android kesayangan anda
 dapat didownload disini :
 untuk arm gunakan ,
 
-http://iptv.burhansyam.com/apk/televizo-arm.apk
+http://brhn.xyz/apk/televizo-arm.apk
 
 untuk x86 gunakan :
 
-http://iptv.burhansyam.com/apk/televizo-x86.apk
+http://brhn.xyz/apk/televizo-x86.apk
 
 # Masukkan Playlist lebih baik dalam format raw : 
 https://raw.githubusercontent.com/burhansyam/iptv/master/playlist.m3u8
 
 # Program Guide silakan diisi EPG :
 
-http://iptv.burhansyam.com/epg/
+http://dev.bkad.xyz/epg/
 
+Maaf karena server utama kesuspend,pindah ke server backup dulu :)
 Selamat menikmati,jangan lupa join : @ http://t.me/wwwiptv
