@@ -254,6 +254,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u
 https://anevia114.mncnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="Musik",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Musik",I Konser
+http://brhn.xyz/kochenk/ekonser.php
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Hiburan dan Permainan",MY eGG Network
@@ -343,39 +345,35 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Extra Chanel",Love Nature
-http://brhn.xyz/kochenk/lovenature.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Extra Chanel",I Konser
-http://brhn.xyz/kochenk/ekonser.php
+http://brhn.xyz/mix/ln.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Extra Chanel",SmithSonian
+http://brhn.xyz/mix/ss.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Extra Chanel",Fox Family Movies Eng
 http://brhn.xyz/kochenk/ffm.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Extra Chanel",Fox Family Movies Ind
 http://brhn.xyz/kochenk/ffmid.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2017/06/12/3de46a6f-f2ce-46cf-a7c5-f53f71fcbe95_43.jpeg" group-title="Extra Chanel",Fox Movies Premium
 http://brhn.xyz/kochenk/fmp.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Extra Chanel",Fox Action Movies
+http://brhn.xyz/mix/fam.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
 http://brhn.xyz/kochenk/tvn.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
 http://brhn.xyz/kochenk/tvnm.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Extra Chanel",Fox Action Movies
-http://brhn.xyz/mix/fam.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Extra Chanel",Celestial Classic Movies
-https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Extra Chanel",Citra Bioskop
-http://brhn.xyz/mix/cb.m3u8
+http://brhn.xyz/mix/cb.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MEIUq0A9l5R7QgR1ZvxQ6xhEfpU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Extra Chanel",Citra Entertainment
 http://brhn.xyz/mix/ce.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="Extra Chanel",Super Sport 1 HD
-http://198.16.100.210:12012/live/359111068247FFA1/eawV2m_stE-m1ej35o5BCVq1frVAWdECYKk2IWiBwbVFP0NWPYGXxl0lbdQIAQDv/E9F3ABF31C274409/746118.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 3 HD
-http://198.16.100.210:12012/live/359111068247FFA1/wzXjAtYKSbLhxoo23ZxkafeYfsmvW1LDW9z0-Q-QWggM-_f2w042GWyJMgSeLEsy/242E0C9A99C849A5/652648.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 4 HD
-http://198.16.100.210:12012/live/359111068247FFA1/pmIbz-1lGxdw88RQF7mPfw1tDDI8Upn42EYwU05JLlwArBZrIC6JSl8ku2jsUx9h/355C7F3AD5C84E20/128193.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 5 HD
-http://198.16.100.210:12012/live/359111068247FFA1/S2UpWI1ej5bovf77peBJVteB0L_sr6la-7bzYKeMVKsyKEJnTVnLzV8Tv9dpjZIm/0A8A0BA89C0F46AB/474144.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 6 HD
-http://198.16.100.210:12012/live/359111068247FFA1/kpm6QF0kYapmSF6SJE-D6UhVtNG9e4e8Iv40qwKATWfH7-UkpkivLeb-hK7k361x/128B3A346EB54061/837886.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Extra Chanel",Super Sport 7 HD
-http://198.16.100.210:12012/live/359111068247FFA1/vga_CN4im1Ny-Uka6DMbMnhmNSx9AJQ9d6zaTzXUUGanCDvgHj43KcMwRPf5rBqf/EB95B3729F5F491D/507243.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz6Ei_q1HJYEL2VIPtVPn3wErxE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Extra Chanel",Citra Muslim
+http://brhn.xyz/mix/cm.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HBUdLVfuZstgnOKIyeCjQZQ6xTg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="Extra Chanel",Citra Dangdut
+http://brhn.xyz/mix/cd.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kRONfwdTkKFzaWYeaflzrhtWYCE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Extra Chanel",Champion TV1
+http://brhn.xyz/mix/cm1.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/SsouRMNZK4hD43qxT7pCSV0asdg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="Extra Chanel",Champion TV2
+http://brhn.xyz/mix/cm2.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkQxfsks0bJ3XeNB4nuacevaJTQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" group-title="Extra Chanel",Champion TV3
+http://brhn.xyz/mix/cm3.php
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/250px-TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1
