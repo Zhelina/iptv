@@ -10,7 +10,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
 http://brhn.xyz/vidiodotcom/net.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV
-http://rr2.dens.tv/s/s07/index1.m3u8
+http://brhn.xyz/mnc/antv.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
@@ -49,11 +49,11 @@ http://brhn.xyz/useetvgo/m3u/beritasatu.m3u8
 http://brhn.xyz/useetvgo/m3u/daaitv.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="TV Nasional",The Indonesia Chanel
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta (off)
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="TV Nasional",Bali TV
 http://brhn.xyz/useetvgo/m3u/balitv.m3u8
-#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Nasional",Jogja TV (off)
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Nasional",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Nasional",JITV
 http://brhn.xyz/useetvgo/m3u/jitv.m3u8
@@ -348,14 +348,6 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 http://brhn.xyz/mix/ln.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Extra Chanel",SmithSonian
 http://brhn.xyz/mix/ss.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Extra Chanel",Fox Family Movies Eng
-http://brhn.xyz/kochenk/ffm.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/430_300.png" group-title="Extra Chanel",Fox Family Movies Ind
-http://brhn.xyz/kochenk/ffmid.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2017/06/12/3de46a6f-f2ce-46cf-a7c5-f53f71fcbe95_43.jpeg" group-title="Extra Chanel",Fox Movies Premium
-http://brhn.xyz/kochenk/fmp.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Extra Chanel",Fox Action Movies
-http://brhn.xyz/mix/fam.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
 http://brhn.xyz/kochenk/tvn.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
