@@ -70,9 +70,9 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",BeIN Sport 1 ID
-http://brhn.xyz/useetvgo/m3u/bein1.m3u8
+http://brhn.xyz/useetvgo/olahraga/bein1.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Olahraga",BeIN Sport 2 ID
-http://brhn.xyz/useetvgo/m3u/bein2.m3u8
+http://brhn.xyz/useetvgo/olahraga/bein2.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Olahraga",BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Olahraga",Fox Sports 1
