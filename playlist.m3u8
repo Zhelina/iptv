@@ -345,9 +345,11 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Extra Chanel",Love Nature
-http://brhn.xyz/mix/ln.php
+http://brhn.xyz/vidiodotcom/lovenature.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Extra Chanel",SmithSonian
-http://brhn.xyz/mix/ss.php
+http://brhn.xyz/vidiodotcom/smithsonian.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Midnight Secrets
+http://brhn.xyz/vidiodotcom/fashionplus.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
 http://brhn.xyz/kochenk/tvn.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
