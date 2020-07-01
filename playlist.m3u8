@@ -66,7 +66,10 @@ https://brhn.xyz/vidiodotcom/global-sd.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC SD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
+http://brhn.xyz/mix/feed/1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
+http://brhn.xyz/mix/feed/2.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",BeIN Sport 1 ID
@@ -111,10 +114,6 @@ https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
 http://brhn.xyz/mix/visionplus/golf.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
-http://brhn.xyz/mix/feed/1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
-http://brhn.xyz/mix/feed/2.php
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/hbogotest/m3u/hbo.m3u8
