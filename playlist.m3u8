@@ -109,8 +109,12 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Olahraga",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-#EXTINF:-1  tvg-logo="https://images.useetv.com/logo_golfplus_big1.png" group-title="Olahraga",GOLF PLUS
-http://brhn.xyz/useetvgo/m3u/golf.m3u8
+#EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
+http://brhn.xyz/mix/visionplus/golf.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
+http://brhn.xyz/mix/feed/1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
+http://brhn.xyz/mix/feed/2.php
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/hbogotest/m3u/hbo.m3u8
@@ -246,6 +250,10 @@ http://brhn.xyz/useetvgo/m3u/natgeopeople.m3u8
 http://brhn.xyz/useetvgo/m3u/crimeinvestigation.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pengetahuan",Lingua
 http://brhn.xyz/useetvgo/m3u/lingua.m3u8
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Pengetahuan",BBC Earth
+http://brhn.xyz/mix/visionplus/bbcearth.m3u8
+#EXTINF:0  tvg-logo="https://img2.pngdownload.id/20180519/rfe/kisspng-animal-planet-logo-television-channel-5b00ac97651460.971763791526770839414.jpg" group-title="Pengetahuan",Animal Planet
+http://brhn.xyz/mix/visionplus/animalplanet.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
@@ -266,6 +274,8 @@ https://anevia114.mncnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Musik",I Konser
 http://brhn.xyz/kochenk/ekonser.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Musik",Channel V
+http://brhn.xyz/mix/visionplus/vchannel.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Hiburan dan Permainan",MY eGG Network
