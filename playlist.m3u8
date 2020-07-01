@@ -138,6 +138,16 @@ https://brhn.xyz/hbogotest/m3u/max.m3u8
 https://brhn.xyz/hbogoasia/m3u/max-sd.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",Warner TV ID HD
 http://brhn.xyz/useetvgo/m3u/warner.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1063445068722393089/sszubbtC_400x400.jpg" group-title="Film",Fox
+http://brhn.xyz/mix/fox.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Film",Fox Movies
+http://brhn.xyz/mix/foxmov.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://w0.pngwave.com/png/2/194/fox-action-movies-fox-movies-fox-international-channels-television-channel-others-png-clip-art.png" group-title="Film",Fox Action Movies
+http://brhn.xyz/mix/foxact.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/1200px-FOX_Family_Movies_%282017%29.png" group-title="Film",Fox Family Movies
+http://brhn.xyz/mix/foxfam.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2017/06/12/3de46a6f-f2ce-46cf-a7c5-f53f71fcbe95_43.jpeg" group-title="Film",Fox Movies Premium
+http://brhn.xyz/mix/foxprem.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_20.jpg" group-title="Film",FLIK
 http://brhn.xyz/useetvgo/m3u/flik.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar.png" group-title="Film",Thrill
