@@ -262,7 +262,7 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Musik",POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/citra-dangdut.png" group-title="Musik",Citra Dangdut
-http://brhn.xyz/useetvgo/m3u/citradangdut.m3u8
+http://brhn.xyz/useetvgo/m3u/citradangdut.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Musik",Prambors
 http://brhn.xyz/useetvgo/m3u/pramborstv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Musik",Karaoke
