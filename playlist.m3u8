@@ -17,19 +17,19 @@ http://brhn.xyz/stream/m3u/vidio-sctv-4july2020.m3u
 http://brhn.xyz/stream/m3u/vidio-indosiar-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
 http://brhn.xyz/stream/rcti.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
+#EXTINF:0 tvg-id="" tvg-name="GlobalTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",Global TV
 http://brhn.xyz/stream/globaltvhd.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC TV
 http://brhn.xyz/stream/mnctv.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD
+#EXTINF:0 tvg-id="" tvg-name="iNews" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",iNews
 http://brhn.xyz/stream/inews.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
+#EXTINF:0 tvg-id="" tvg-name="TVONE" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TVONE
 http://brhn.xyz/stream/sc/tvone.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV
 http://brhn.xyz/stream/m3u/kompastv-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",Rajawali TV
+#EXTINF:0 tvg-id="" tvg-name="RTV" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",RTV
 http://brhn.xyz/stream/m3u/rtv-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Nasional",JTV
 http://brhn.xyz/stream/m3u/jtv-4july2020.m3u
@@ -69,9 +69,9 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",BeIN Sport 1 ID
+#EXTINF:0 tvg-id="" tvg-name="beINSports1HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",beIN Sport 1 HD
 http://brhn.xyz/stream/m3u/bein1-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Olahraga",BeIN Sport 2 ID
+#EXTINF:0 tvg-id="" tvg-name="beINSports2HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="Olahraga",beIN Sport 2 HD
 http://brhn.xyz/stream/m3u/bein2-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Olahraga",BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
@@ -140,7 +140,7 @@ https://brhn.xyz/stream/m3u/red-sd-4july2020.m3u
 https://brhn.xyz/stream/m3u/max-4july2020.m3u
 #EXTINF:1 tvg-name="Cinemax.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax SD
 https://brhn.xyz/stream/m3u/max-sd-4july2020.m3u
-#EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",Warner TV ID HD
+#EXTINF:1 tvg-id="" tvg-name="WarnerTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",WarnerTV
 http://brhn.xyz/stream/m3u/warner-4july2020.m3u
 #EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1063445068722393089/sszubbtC_400x400.jpg" group-title="Film",Fox
 http://brhn.xyz/stream/sc/fox.php
@@ -189,9 +189,9 @@ http://brhn.xyz/stream/m3u/blueant-4july2020.m3u
 http://brhn.xyz/stream/m3u/cartoonnetwork-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Anak",Dreamwork
 http://brhn.xyz/stream/m3u/dreamworks-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Anak",Nickelodeon ID
+#EXTINF:0 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Anak",Nickelodeon ID
 http://brhn.xyz/stream/m3u/nickelodeon-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Anak",Nick Jr ID
+#EXTINF:0 tvg-id="" tvg-name="NickelodeonJr" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Anak",Nick Jr ID
 http://brhn.xyz/stream/m3u/nickjr-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/24jam.live/wp-content/uploads/2019/09/disney-junior.png" group-title="Anak",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -476,3 +476,12 @@ http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 http://178.128.121.192/hlsmobile/web.m3u8
 #EXTINF:0  tvg-logo="https://www.santo-laurensius.org/wp-content/uploads/2018/12/hidup-tv.png" group-title="TV RELIGI",Hidup TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="AstroCeria.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_ceria.png", Astro Ceria
+https://brhn.xyz/stream/sc/astro-ceria.php
+#EXTINF:-1 tvg-ID="AstroOasis.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_oasis.png", Astro Oasis
+https://brhn.xyz/stream/sc/astro-oasis.php
+#EXTINF:-1 tvg-ID="AstroPrima.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_prima.png", Astro Prima
+https://brhn.xyz/stream/sc/astro-prima.php
+#EXTINF:-1 tvg-ID="AstroRia.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_ria.png", Astro Ria
+https://brhn.xyz/stream/sc/astro-ria.php
