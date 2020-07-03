@@ -16,13 +16,13 @@ https://cdn-livetv5.metube.id/hls/sctv_480/index-iptvwow.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
 http://brhn.xyz/stream/m3u/vidio-indosiar-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
-http://brhn.xyz/stream/m3u/rcti-iptvwow.m3u
+http://brhn.xyz/stream/rcti.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
-http://brhn.xyz/stream/globaltvhd-iptvwow.m3u
+http://brhn.xyz/stream/globaltvhd.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC TV
-http://brhn.xyz/stream/mnctv-iptvwow.m3u
+http://brhn.xyz/stream/mnctv.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD
-http://brhn.xyz/stream/inews-iptvwow.m3u
+http://brhn.xyz/stream/inews.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
 http://brhn.xyz/stream/sc/tvone.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
@@ -66,10 +66,7 @@ https://brhn.xyz/stream/m3u/vidio-global-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC SD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
-http://brhn.xyz/stream/feed/1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
-http://brhn.xyz/stream/feed/2.php
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",BeIN Sport 1 ID
@@ -114,6 +111,10 @@ https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 http://cdnak19.cast4u.info/channels/4/10804-iptvwow.m3u?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
 http://brhn.xyz/stream/m3u/golf-iptvwow.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
+http://brhn.xyz/stream/feed/1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
+http://brhn.xyz/stream/feed/2.php
 
 #EXTINF:1 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/stream/m3u/hbo-iptvwow.m3u
