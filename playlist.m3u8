@@ -294,6 +294,36 @@ http://brhn.xyz/stream/m3u/blueantextreme-iptvwow.m3u
 http://brhn.xyz/stream/m3u/useeprime-iptvwow.m3u
 
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Extra Chanel",Love Nature
+http://brhn.xyz/stream/m3u/vidio-lovenature-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Extra Chanel",SmithSonian
+http://brhn.xyz/stream/m3u/vidio-smithsonian-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Midnight Secrets
+http://brhn.xyz/stream/m3u/vidio-fashionplus-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV L'Original
+http://brhn.xyz/stream/m3u/vidio-fashion-original-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Global
+http://brhn.xyz/stream/m3u/vidio-fashion-tv-global-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
+http://brhn.xyz/stream/sc/tvn.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
+http://brhn.xyz/stream/sc/tvnm.php
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Extra Chanel",Citra Bioskop
+http://brhn.xyz/stream/m3u/vidio-citra-bioskop-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MEIUq0A9l5R7QgR1ZvxQ6xhEfpU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Extra Chanel",Citra Entertainment
+http://brhn.xyz/stream/m3u/vidio-citra-entertainment-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz6Ei_q1HJYEL2VIPtVPn3wErxE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Extra Chanel",Citra Muslim
+http://brhn.xyz/stream/m3u/vidio-citra-muslim-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HBUdLVfuZstgnOKIyeCjQZQ6xTg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="Extra Chanel",Citra Dangdut
+http://brhn.xyz/stream/m3u/vidio-citra-dangdut-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kRONfwdTkKFzaWYeaflzrhtWYCE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Extra Chanel",Champion TV1
+http://brhn.xyz/stream/m3u/vidio-championtv1-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/SsouRMNZK4hD43qxT7pCSV0asdg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="Extra Chanel",Champion TV2
+http://brhn.xyz/stream/m3u/vidio-championtv2-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkQxfsks0bJ3XeNB4nuacevaJTQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" group-title="Extra Chanel",Champion TV3
+http://brhn.xyz/stream/m3u/vidio-championtv3-iptvwow.m3u
+
+
 #EXTINF:-1  tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Gaya Hidup",Insert
 http://brhn.xyz/stream/m3u/insert-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="Gaya Hidup",Eat&Go
@@ -340,7 +370,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="Berita dan Informasi",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="Berita dan Informasi",ABC Australia
-http://brhn.xyz/stream/m3u/vidio-abcaustralia-iptvwow.m3u
+http://brhn.xyz/stream/m3u/vidio-abc-australia-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/deutsche_welle.png" group-title="Berita dan Informasi",DW TV Asia
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-x7xFtvyiszc/VwSRgKroVrI/AAAAAAAAdKE/3KIriwLqcusTN60EcJP8wu5mRubV2jddA/s1600/cctv-4-logo.png" group-title="Berita dan Informasi",CN: CCTV 4
@@ -371,36 +401,6 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dtbhzdanf36fd.cloudfront.net/agencies/40250/logo_original.png" group-title="Berita dan Informasi",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Extra Chanel",Love Nature
-http://brhn.xyz/stream/m3u/vidio-lovenature-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Extra Chanel",SmithSonian
-http://brhn.xyz/stream/m3u/vidio-smithsonian-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Midnight Secrets
-http://brhn.xyz/stream/m3u/vidio-fashionplus-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV L'Original
-http://brhn.xyz/stream/m3u/vidio-fashion-original-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Global
-http://brhn.xyz/stream/m3u/vidio-fashion-tv-global-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
-http://brhn.xyz/stream/sc/tvn.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
-http://brhn.xyz/stream/sc/tvnm.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Extra Chanel",Citra Bioskop
-http://brhn.xyz/stream/m3u/vidio-citra-bioskop-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MEIUq0A9l5R7QgR1ZvxQ6xhEfpU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Extra Chanel",Citra Entertainment
-http://brhn.xyz/stream/m3u/vidio-citra-entertainment-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz6Ei_q1HJYEL2VIPtVPn3wErxE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Extra Chanel",Citra Muslim
-http://brhn.xyz/stream/m3u/vidio-citra-muslim-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HBUdLVfuZstgnOKIyeCjQZQ6xTg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="Extra Chanel",Citra Dangdut
-http://brhn.xyz/stream/m3u/vidio-citra-dangdut-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kRONfwdTkKFzaWYeaflzrhtWYCE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Extra Chanel",Champion TV1
-http://brhn.xyz/stream/m3u/vidio-championtv1-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/SsouRMNZK4hD43qxT7pCSV0asdg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="Extra Chanel",Champion TV2
-http://brhn.xyz/stream/m3u/vidio-championtv2-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkQxfsks0bJ3XeNB4nuacevaJTQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" group-title="Extra Chanel",Champion TV3
-http://brhn.xyz/stream/m3u/vidio-championtv3-iptvwow.m3u
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/250px-TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1
