@@ -40,7 +40,7 @@ http://brhn.xyz/stream/m3u/jaktv-iptvwow.m3u
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Nasional",MY TV
 http://brhn.xyz/stream/m3u/mytv-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI
-http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+http://brhn.xyz/stream/m3u/tvri-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="TV Nasional",ANTARA
 http://brhn.xyz/stream/m3u/antara-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
@@ -62,9 +62,9 @@ http://brhn.xyz/stream/m3u/rrinet-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://streamvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI SD
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://streamvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBAL TV SD
-https://brhn.xyz/stream/m3u/vidio-global-sd-iptvwow.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://streamvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",stream SD
-https://cdn-livetv5.metube.id/hls/streamtv_480/index.m3u8
+https://brhn.xyz/stream/m3u/vidio-global-iptvwow.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://streamvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC SD
+https://brhn.xyz/stream/m3u/vidio-mnc-iptvwow.m3u
 
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
 http://brhn.xyz/stream/feed/1.php
