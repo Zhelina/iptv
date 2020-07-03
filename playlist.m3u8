@@ -28,9 +28,9 @@ http://brhn.xyz/stream/sc/tvone.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV
-http://brhn.xyz/stream/m3u/vidio-kompastv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/kompastv-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",Rajawali TV
-http://brhn.xyz/stream/m3u/vidio-rtv-iptvwow.m3u
+http://brhn.xyz/stream/m3u/rtv-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Nasional",JTV
 http://brhn.xyz/stream/m3u/jtv-iptvwow.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="TV Nasional",O Channel
