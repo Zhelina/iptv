@@ -275,7 +275,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Musik",I Konser
 http://brhn.xyz/stream/sc/ekonser.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Musik",Channel V
-http://brhn.xyz/stream/visionplus/vchannel.m3u
+http://brhn.xyz/stream/sc/v.php
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Hiburan dan Permainan",MY eGG Network
@@ -476,12 +476,3 @@ http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 http://178.128.121.192/hlsmobile/web.m3u8
 #EXTINF:0  tvg-logo="https://www.santo-laurensius.org/wp-content/uploads/2018/12/hidup-tv.png" group-title="TV RELIGI",Hidup TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="AstroCeria.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_ceria.png", Astro Ceria
-https://brhn.xyz/stream/sc/astro-ceria.php
-#EXTINF:-1 tvg-ID="AstroOasis.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_oasis.png", Astro Oasis
-https://brhn.xyz/stream/sc/astro-oasis.php
-#EXTINF:-1 tvg-ID="AstroPrima.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_prima.png", Astro Prima
-https://brhn.xyz/stream/sc/astro-prima.php
-#EXTINF:-1 tvg-ID="AstroRia.my" group-title="Kochenk" tvg-logo="https://cdn.macan.live/img/astro_ria.png", Astro Ria
-https://brhn.xyz/stream/sc/astro-ria.php
