@@ -112,9 +112,9 @@ http://cdnak19.cast4u.info/channels/4/10804-4july2020.m3u?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
 http://brhn.xyz/stream/visionplus/golf-4july2020.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
-http://brhn.xyz/stream/feed/1.php
+http://brhn.xyz/stream/sc/1.php
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
-http://brhn.xyz/stream/feed/2.php
+http://brhn.xyz/stream/sc/2.php
 
 #EXTINF:1 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/stream/m3u/hbo-4july2020.m3u
@@ -217,10 +217,10 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Anak",Baby First
 http://brhn.xyz/stream/m3u/babyfirst-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png" group-title="Anak",Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="Anak",Boing TV
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Anak",Zoo Moo
+https://brhn.xyz/stream/m3u/vidio-zoomoo-4july2020.m3u
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Anak",Hip Hip Horee
+https://brhn.xyz/stream/m3u/vidio-hiphip-horee-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/320px-Spacetoon.png" group-title="Anak",Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/41/f9/ef/41f9efdd5c0714b36bb78d7c2cc57e00.jpg" group-title="Anak",3ABN Kids
