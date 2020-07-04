@@ -109,8 +109,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Olahraga",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804-4july2020.m3u?fluxustv.m3u8
-#EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
-http://brhn.xyz/stream/visionplus/golf-4july2020.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 1
 http://brhn.xyz/stream/sc/epl1.php
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 2
@@ -129,6 +127,8 @@ http://brhn.xyz/stream/sc/la3.php
 http://brhn.xyz/stream/sc/la4.php
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED SERIE A 1
 http://brhn.xyz/stream/sc/serie1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED BUNDESLIGA 1
+http://brhn.xyz/stream/sc/bundes1.php
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED F1 1
 http://brhn.xyz/stream/sc/f1.php
 #EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED F1 2
@@ -271,10 +271,6 @@ http://brhn.xyz/stream/m3u/natgeopeople-4july2020.m3u
 http://brhn.xyz/stream/m3u/crimeinvestigation-4july2020.m3u
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pengetahuan",Lingua
 http://brhn.xyz/stream/m3u/lingua-4july2020.m3u
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Pengetahuan",BBC Earth
-http://brhn.xyz/stream/visionplus/bbcearth-4july2020.m3u
-#EXTINF:0  tvg-logo="https://img2.pngdownload.id/20180519/rfe/kisspng-animal-planet-logo-television-channel-5b00ac97651460.971763791526770839414.jpg" group-title="Pengetahuan",Animal Planet
-http://brhn.xyz/stream/visionplus/animalplanet-4july2020.m3u
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
@@ -295,8 +291,6 @@ https://anevia114.streamnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Musik",I Konser
 http://brhn.xyz/stream/sc/ekonser.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Musik",Channel V
-http://brhn.xyz/stream/sc/v.php
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Hiburan dan Permainan",MY eGG Network
@@ -375,16 +369,7 @@ https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-_400x400.png" group-title="Gaya Hidup",BBC Lifestyle
-http://brhn.xyz/stream/visionplus/bbclifestyle-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/335-3354416_logo-fashion-one-tv-channel-logo-hd-png.png" group-title="Gaya Hidup",Fashion One
-http://brhn.xyz/stream/visionplus/fashionone-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gaya Hidup",HGTV
-http://brhn.xyz/stream/visionplus/hgtv-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Gaya Hidup",LIFE TIME
-http://brhn.xyz/stream/visionplus/lifetime-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/617/925/png-transparent-tlc-television-show-logo-business-animal-family-television-text-trademark.png" group-title="Gaya Hidup",TLC
-http://brhn.xyz/stream/visionplus/tlc-4july2020.m3u
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Berita dan Informasi",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
