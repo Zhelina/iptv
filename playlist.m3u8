@@ -109,14 +109,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Olahraga",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804-4july2020.m3u?fluxustv.m3u8
-#EXTINF:-1  tvg-logo="https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg" group-title="Olahraga",FEED EPL 1
-http://brhn.xyz/stream/sc/epl1.php
-#EXTINF:-1  tvg-logo="https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg" group-title="Olahraga",FEED EPL 2
-http://brhn.xyz/stream/sc/epl2.php
-#EXTINF:-1  tvg-logo="https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg" group-title="Olahraga",FEED EPL 3
-http://brhn.xyz/stream/sc/epl3.php
-#EXTINF:-1  tvg-logo="https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg" group-title="Olahraga",FEED EPL 4
-http://brhn.xyz/stream/sc/epl4.php
 #EXTINF:-1  tvg-logo="https://cdn1-production-images-kly.akamaized.net/N855qcrzqZI7eGnalL2M8aHlseA=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/756453/original/037620900_1414362448-la_liga.jpg" group-title="Olahraga",FEED LA LIGA 1
 http://brhn.xyz/stream/sc/la1.php
 #EXTINF:-1  tvg-logo="https://cdn1-production-images-kly.akamaized.net/N855qcrzqZI7eGnalL2M8aHlseA=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/756453/original/037620900_1414362448-la_liga.jpg" group-title="Olahraga",FEED LA LIGA 2
@@ -285,8 +277,6 @@ http://brhn.xyz/stream/m3u/citradangdut-4july2020.m3u
 http://brhn.xyz/stream/m3u/pramborstv-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="Musik",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png" group-title="Musik",Lapak Musik
-https://anevia114.streamnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="Musik",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Musik",I Konser
