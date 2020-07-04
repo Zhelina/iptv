@@ -109,29 +109,29 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Olahraga",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804-4july2020.m3u?fluxustv.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 1
+#EXTINF:-1  tvg-logo="https://www.gamesatlas.com/images/football/leagues/english-premier-league.png" group-title="Olahraga",FEED EPL 1
 http://brhn.xyz/stream/sc/epl1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 2
+#EXTINF:-1  tvg-logo="https://www.gamesatlas.com/images/football/leagues/english-premier-league.png" group-title="Olahraga",FEED EPL 2
 http://brhn.xyz/stream/sc/epl2.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 3
+#EXTINF:-1  tvg-logo="https://www.gamesatlas.com/images/football/leagues/english-premier-league.png" group-title="Olahraga",FEED EPL 3
 http://brhn.xyz/stream/sc/epl3.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 4
+#EXTINF:-1  tvg-logo="https://www.gamesatlas.com/images/football/leagues/english-premier-league.png" group-title="Olahraga",FEED EPL 4
 http://brhn.xyz/stream/sc/epl4.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/LaLiga.svg" group-title="Olahraga",FEED LA LIGA 1
 http://brhn.xyz/stream/sc/la1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/LaLiga.svg" group-title="Olahraga",FEED LA LIGA 2
 http://brhn.xyz/stream/sc/la2.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/LaLiga.svg" group-title="Olahraga",FEED LA LIGA 3
 http://brhn.xyz/stream/sc/la3.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 4
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/LaLiga.svg" group-title="Olahraga",FEED LA LIGA 4
 http://brhn.xyz/stream/sc/la4.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED SERIE A 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png" group-title="Olahraga",FEED SERIE A 1
 http://brhn.xyz/stream/sc/serie1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED BUNDESLIGA 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png" group-title="Olahraga",FEED BUNDESLIGA 1
 http://brhn.xyz/stream/sc/bundes1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED F1 1
+#EXTINF:-1  tvg-logo="https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/459/image/45948ed820777a246ff9eee13107e746.jpg" group-title="Olahraga",FEED F1 1
 http://brhn.xyz/stream/sc/f1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED F1 2
+#EXTINF:-1  tvg-logo="https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/459/image/45948ed820777a246ff9eee13107e746.jpg" group-title="Olahraga",FEED F1 2
 http://brhn.xyz/stream/sc/f2.php
 
 
