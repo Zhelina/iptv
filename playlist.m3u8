@@ -111,10 +111,31 @@ https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 http://cdnak19.cast4u.info/channels/4/10804-4july2020.m3u?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
 http://brhn.xyz/stream/visionplus/golf-4july2020.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 1
-http://brhn.xyz/stream/sc/1.php
-#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED 2
-http://brhn.xyz/stream/sc/2.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 1
+http://brhn.xyz/stream/sc/epl1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 2
+http://brhn.xyz/stream/sc/epl2.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 3
+http://brhn.xyz/stream/sc/epl3.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED EPL 4
+http://brhn.xyz/stream/sc/epl4.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 1
+http://brhn.xyz/stream/sc/la1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 2
+http://brhn.xyz/stream/sc/la2.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 3
+http://brhn.xyz/stream/sc/la3.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED LA LIGA 4
+http://brhn.xyz/stream/sc/la4.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED SERIE A 1
+http://brhn.xyz/stream/sc/serie1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED F1 1
+http://brhn.xyz/stream/sc/f1.php
+#EXTINF:-1  tvg-logo="" group-title="Olahraga",FEED F1 2
+http://brhn.xyz/stream/sc/f2.php
+
+
+
 
 #EXTINF:1 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/stream/m3u/hbo-4july2020.m3u
