@@ -291,15 +291,15 @@ https://anevia114.streamnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="Musik",I Konser
 http://brhn.xyz/stream/sc/ekonser.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="Music",30A Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="Musik",30A Music
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Music",Box Hits
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Musik",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" tvg-country="RO" tvg-url="" group-title="Music",MOOZ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" tvg-country="RO" tvg-url="" group-title="Musik",MOOZ HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" tvg-country="RO" tvg-url="" group-title="Music",MOOZ Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" tvg-country="RO" tvg-url="" group-title="Musik",MOOZ Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" tvg-url="" group-title="Music",MOOZ RO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" tvg-url="" group-title="Musik",MOOZ RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 
