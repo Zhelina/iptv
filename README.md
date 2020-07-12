@@ -1,5 +1,5 @@
-# IPTV FREE PLAYLIST
-Playlist STB Android kesayangan anda 
+# IPTV FREEMIUM PLAYLIST
+Playlist Android STB dan Smart TV kesayangan anda 
 
 # Gunakan Televizo Mod Terbaru : 
 dapat didownload disini :
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/burhansyam/iptv/master/playlist.m3u8
 
 # Program Guide silakan diisi EPG :
 
-http://dev.bkad.xyz/epg/
+http://brhn.xyz/epg/
 
 Maaf karena server utama kesuspend,pindah ke server backup dulu :)
-Selamat menikmati,jangan lupa join : @ http://t.me/wwwiptv
+Selamat menikmati,keluhan & saran silakan sampaikan via Telegram ke : @ http://t.me/burhansyam
